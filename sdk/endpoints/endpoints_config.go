@@ -277,7 +277,7 @@ const endpointsJson = "{" +
 	"    \"document_id\": \"25484\"," +
 	"    \"location_service_code\": \"ecs\"," +
 	"    \"regional_endpoints\": []," +
-	"    \"global_endpoint\": \"\"," +
+	"    \"global_endpoint\": \"ecs.aliyuncs.com\"," +
 	"    \"regional_endpoint_pattern\": \"\"" +
 	"  }," +
 	"  {" +
@@ -414,7 +414,7 @@ const endpointsJson = "{" +
 	"    \"document_id\": \"60831\"," +
 	"    \"location_service_code\": \"redisa\"," +
 	"    \"regional_endpoints\": []," +
-	"    \"global_endpoint\": \"\"," +
+	"    \"global_endpoint\": \"r-kvstore.aliyuncs.com\"," +
 	"    \"regional_endpoint_pattern\": \"\"" +
 	"  }," +
 	"  {" +
@@ -430,7 +430,7 @@ const endpointsJson = "{" +
 	"    \"document_id\": \"26223\"," +
 	"    \"location_service_code\": \"rds\"," +
 	"    \"regional_endpoints\": []," +
-	"    \"global_endpoint\": \"\"," +
+	"    \"global_endpoint\": \"rds.aliyuncs.com\"," +
 	"    \"regional_endpoint_pattern\": \"\"" +
 	"  }," +
 	"  {" +
